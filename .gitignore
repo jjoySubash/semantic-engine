@@ -1,0 +1,12 @@
+__pycache__/
+temp/
+sem/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large datasets (optional)
+datasets/*.csv
+
+# System files
+.DS_Store
